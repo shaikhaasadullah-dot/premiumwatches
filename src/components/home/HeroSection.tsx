@@ -25,9 +25,9 @@ export const HeroSection: React.FC = () => {
           </div>
 
           <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-extrabold text-white tracking-tight leading-[1.1]">
-            Crafting Time <br />
+            Time is ourside <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600">
-              Across Generations
+              across Generations
             </span>
           </h1>
 
